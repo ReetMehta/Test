@@ -15,4 +15,5 @@ for i in range(0,len(w)):
     n+=counter
 
 print(n)
+print("fdg")
 print("sdfzv")
