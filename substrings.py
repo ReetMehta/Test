@@ -3,7 +3,7 @@ w=[]
 for i in word:
     w.append(i) 
 n=0
-
+print("sfg")
 for i in range(0,len(w)):
     counter=0
     pointer=i
