@@ -1,7 +1,7 @@
 word=input("Enter the word:")
 w=[]
 for i in word:
-    w.append(i)
+    w.append(i) 
 n=0
 
 for i in range(0,len(w)):
@@ -15,3 +15,4 @@ for i in range(0,len(w)):
     n+=counter
 
 print(n)
+print("sdfzv")
